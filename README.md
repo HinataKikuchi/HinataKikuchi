@@ -4,5 +4,4 @@
 
 |  twitter  |  instagram  |
 | ---- | ---- |
-| ![twitter_qr](https://user-images.githubusercontent.com/58177127/95284067-2c869200-0898-11eb-9ea2-abdd3ae2abc9.jpg) |  ![instagram_qr](https://user-images.githubusercontent.com/58177127/95283664-4d021c80-0897-11eb-9207-1f4799662867.png)
-  |
+| ![twitter_qr](https://user-images.githubusercontent.com/58177127/95284067-2c869200-0898-11eb-9ea2-abdd3ae2abc9.jpg) | ![instagram_qrcode](https://user-images.githubusercontent.com/58177127/95284166-766f7800-0898-11eb-9e91-b13a2d832654.png) |
